@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/CCCCUMAR/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "uuidv1": "^1.6.14"
   }
 }
